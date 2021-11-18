@@ -1,0 +1,127 @@
+header {
+    text-align: left;
+    background: rgb(206, 204, 204);
+}
+
+#divhead {
+    background-color: rgb(206, 204, 204);
+}
+
+#div1 {
+    font-size: 60px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+#div2 {
+    margin-left: 30px;
+}
+
+#inicio {
+    background-color: rgb(206, 204, 204);
+}
+
+body {
+    background-color: rgb(206, 204, 204);
+    height: 100%;
+}
+
+#paginaIni {
+    margin-top: 60px;
+    margin-left: 60px;
+    text-align: justify;
+}
+
+p,ul {
+    margin-left: 70px;
+    text-align: justify;
+}
+
+#nav {
+    margin-top: 10px;
+    
+}
+
+#seccion1 {
+    background-color: rgb(219, 217, 203);
+}
+
+#asidebody {
+    background: rgb(206, 204, 204);
+}
+
+#aside {
+    margin-top: 30px;
+}
+
+#foto1 {
+    background-color: rgb(206, 204, 204);  
+}
+
+#hr1 {
+    display: block;
+    background: black;
+    margin-bottom: 0px;
+    border-style: inset;
+    border-width: 2px;
+    border-color: black;
+}
+
+footer {
+    background: rgb(206, 204, 204);
+    position: fixed;
+    bottom: 0;
+}
+
+th, td {
+    border: 2px solid black;
+    border-collapse: separate;
+    padding: 5px;
+    text-align: center;
+}
+
+#horario {
+    display: flex;
+    justify-content: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+
+#horariotitulo {
+    margin-top: 10px;
+    font-size: x-large;
+}
+
+#divabajo {
+    background-color: rgb(206, 204, 204);
+}
+
+#perejil {
+    font-size: large;
+    margin-left: 20px;
+}
+
+#pere {
+    margin-left: 90px;
+}
+
+#fotopere {
+    margin-top: 200px;
+    width: 300px;
+}
+
+#curi {
+    margin-top: 60px;
+    margin-left: 60px;
+}
+
+#divcuri {
+    background-color: rgb(206, 204, 204);
+    margin-top: 100px;
+}
+
+#historia {
+    margin-left: 180px;
+    margin-right: 100px;
+}
